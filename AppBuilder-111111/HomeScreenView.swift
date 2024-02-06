@@ -126,9 +126,9 @@ struct HomeScreenView: View {
         .cornerRadius(10)
     }
     
-        func mainSectionButton(imageName: String, text: String?, disabled: Bool = false, action: () -> Void) -> some View {
+        func mainSectionButton(imageName: String, text: String?, disabled: Bool = false, action: @escaping () -> Void) -> some View {
         Button {
-            
+            action()
         } label: {
             HStack {
                 Image(imageName)
