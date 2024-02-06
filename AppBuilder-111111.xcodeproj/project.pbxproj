@@ -16,6 +16,7 @@
 		9C47B65E2B723FA80029303C /* LoginScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C47B65D2B723FA80029303C /* LoginScreenView.swift */; };
 		9C47B6602B7247C00029303C /* SignInButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C47B65F2B7247C00029303C /* SignInButtonView.swift */; };
 		9C47B6622B72514D0029303C /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C47B6612B72514D0029303C /* Extensions.swift */; };
+		9C47B6642B7263610029303C /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C47B6632B7263610029303C /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		9C47B65D2B723FA80029303C /* LoginScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginScreenView.swift; sourceTree = "<group>"; };
 		9C47B65F2B7247C00029303C /* SignInButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInButtonView.swift; sourceTree = "<group>"; };
 		9C47B6612B72514D0029303C /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		9C47B6632B7263610029303C /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 			children = (
 				9C47B64B2B7113D50029303C /* AppBuilder_111111App.swift */,
 				9C47B64D2B7113D50029303C /* ContentView.swift */,
+				9C47B6632B7263610029303C /* HomeView.swift */,
 				9C47B6592B7113F40029303C /* HomeScreenView.swift */,
 				9C47B65B2B7131F60029303C /* HomeScreenMyLibrarySectionView.swift */,
 				9C47B65D2B723FA80029303C /* LoginScreenView.swift */,
@@ -157,6 +160,7 @@
 				9C47B65A2B7113F40029303C /* HomeScreenView.swift in Sources */,
 				9C47B64E2B7113D50029303C /* ContentView.swift in Sources */,
 				9C47B64C2B7113D50029303C /* AppBuilder_111111App.swift in Sources */,
+				9C47B6642B7263610029303C /* HomeView.swift in Sources */,
 				9C47B65C2B7131F60029303C /* HomeScreenMyLibrarySectionView.swift in Sources */,
 				9C47B6622B72514D0029303C /* Extensions.swift in Sources */,
 			);
